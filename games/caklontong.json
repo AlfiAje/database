@@ -1,0 +1,25 @@
+[
+  {
+    "index": 0,
+    "soal": "Dimana Gol D Roger dimakamkan ⁵p",
+    "jawaban": "Ditanah",
+    "deskripsi": "Makam Gol D Roger adalah ditanah , masa iya makamnya digantung"
+  },
+  {
+    "index": 1,
+    "soal": "Orang tua Monkey D garp diberi julukan ⁵p",
+    "jawaban": "Ayah, ibu",
+    "deskripsi": "julukan untuk orang tua adalah ayah dan ibu."
+  },
+  {
+    "index": 2,
+    "soal": [
+        "A: Kapan kita pergi ?",
+        "B: Sekarang",
+        " ",
+        "A dan B adalah ?",
+     ]
+    "jawaban": "Huruf",
+    "deskripsi": "A dan B adalah huruf , yakali dah A dan B itu admin"
+  },
+]
